@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://nftix.land" resolutions="1x" timestamp="1654680162530">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://nftix.land" resolutions="1x" timestamp="1654680337462">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3788271567" ref="index"/>
@@ -16,6 +16,7 @@
     <file name="background.jpg" crc="215189551" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="a-master-favicon.ico" crc="4098811365" ref="index"/>
   </folder>
-  <file name="index.html" crc="75586746" seo="true" mt="1654680143430" redirect="true"/>
+  <file name="index.html" crc="94876967" seo="true" mt="1654680197722" redirect="true"/>
 </manifest>
